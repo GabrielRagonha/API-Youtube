@@ -2,10 +2,6 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Json;
-using System.Threading.Channels;
-
-
-//Doc API: https://developers.google.com/youtube/v3/docs/videos/list?hl=pt-br
 
 class Program
 {
